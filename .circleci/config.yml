@@ -1,13 +1,27 @@
-# Use the latest 2.1 version of CircleCI pipeline process engine. See: https://circleci.com/docs/2.0/configuration-reference
-version: 2.1
-# Use a package of configuration called an orb.
-orbs:
-  # Declare a dependency on the welcome-orb
-  welcome: circleci/welcome-orb@0.4.1
-# Orchestrate or schedule a set of jobs
-workflows:
-  # Name the workflow "welcome"
-  welcome:
-    # Run the welcome/run job in its own container
-    jobs:
-      - welcome/run
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEAl47PMAj/XM2RbC/kpCoMZL7i1rxop5l2+zt++xJvo6wGKxMl
+jCwgzPNmY2/ulax5u15vfO9QVbM35v9yESOxYRo7C27ULI6FS7/FOMtZuRGTxBYx
+5iy+8dN9ikPV9Q5Jfv6+M+U4qyEmgOqzmur5js0NMF4zZWnvZvk6VsCrKUJ4TBe3
+7FhuOX+53HWwKH061ToA4kVgp3LQdc3UNka2ogasxIwWQ+Elx03xkmMKlvwbog7c
+CjqO2nWNE8wPIixKGJWEI1I/VhvH/zC4FcDSjf7l6T7a8jZ5qjKVGowiLbrGe0yB
+AdiS1muMjg+Nn46Z5x81+0yrmrVcDgkHJRgDxQIDAQABAoIBAQCIbdreX8sYTEiz
+Pe2xRdTAQAFM0m/XJ1Ou1qD4/GCY0nr+/Y5YP0ULmbO6oYEBJTCz1U/BBGCptNoG
+zD5vZVUAly89nHfM4ELnrGqqNIvBCCyfYGdszyzX3czt0SDiJwlME58+cgJwMjhJ
+5nzlYM5jmPxdZP8ZNKJ4bLPych/h0/wVigYEXwCNHgeTFQjc7QCb+BqlkPFE//sJ
+hgk31FgDHpe1aIzdqS95dUHk71cqENTzUlNEWOX15dG+dVe9PfrV4zuRFbQ8UhQj
+T48RGdMhauZdv6tNjD1sjhIyRHQoMFQN4Nr9hcyM2YQnWwH9wUwEfEev2EUhWrW6
+Pm/+yN4lAoGBAM6Gsc0mPUP4axB2zDc4oUQFKRZx7dGe2MArkj9LhBQF09/n+iWH
+uOY6QwDy676nQjRVgMLADxOe7+scLLDPOMGWD6NDHCsqseQxc2meRiqf4lybbFoZ
+yVfgXhy3jk5hxcV2APT/Jgu2MRid+98Vc/iIUQDIZYG1mOKdk5cdNubvAoGBALvd
+KPFEpVWsWe2B0CUa7qWkF6Ob6kyGTZP8sUvgro/iQ2hd17G6CPlVR2YJRpUoKNJT
+iBPam9fbWZTGQfjEhaJvB8HvVA/znezklmTXhb8RBXt4vzpJYJLzbMGrDWLrMaU2
+TveGZcghghY9HxEWT8Dwp3TngKsVWjxqSrPhQWCLAoGBAMtaUSQg7N5KcpFJiBcv
+iYrCUgyprXNjpyTBQkVUg/57Jn4nmmTt2J/I6kS67GlTo5qIPjqEhdPaAX5Mxaxq
+vgXPTiKBZ/ERHwwDrRJoJ8q8l1R8LRoineALKl+4VUTUfLnLUXHq8XlCseD9Xg3w
+v7oN70SIDXrEZn9sjPCUcYS9AoGAaoGI67fyUC8FUMyu18p8D/aG3F/Rpo7hvoud
+bJo1/SbW9n11grIo0kqRzvxlQrzg39UxqaffgLJACEOaNVIdPSjbagyoSN7h4uL5
+jLRPhDI/PHAJYh8lnEpblzTFwxX6MGMow9YzMBInMTp3uXU/w+/r0DBLVzMk1Gmi
+bna/XN8CgYAoypKusK53rDyruDGquVWBeZa/FWfDBFvqkkx2owRDyDcP05ccLlxZ
+fMQGdONumPR9SPalX9aeOa1aEMVODwDJPrXJXnQYgvbiaCU2wDnPVT58p8zLctmx
+r6Z8OnugQirgC6aoifnKqZBqPnBmDr7tWJyymDnhy0HB4wYG4Lhkcg==
+-----END RSA PRIVATE KEY-----
